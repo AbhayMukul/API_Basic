@@ -8,5 +8,7 @@ Created small API connecting Mysql using Node.js and Express.js
 2. npm install express mysql body-parser --save
 
 // for nodemon
+
 3. npm install -g nodemon // nodemon install globally
-4. Set-ExecutionPolicy RemoteSigned -Scope CurrentUser // if script not allowed then
+
+5. Set-ExecutionPolicy RemoteSigned -Scope CurrentUser // if script not allowed then
